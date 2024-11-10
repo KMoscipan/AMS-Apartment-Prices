@@ -11,7 +11,7 @@ The goal of this project is to identify the main factors that drive apartment pr
 - **Main Price Drivers:** Size and neighborhood pricing are the most important factors influencing apartment prices.  
 - **Other Factors:** Energy efficiency and the number of rooms also impact prices, but to a lesser degree.  
 - **Data Cleaning:** Outliers were removed to focus on typical market conditions, which helps make the model more relevant for the average buyer.  
-- **Model Performance:** The OLS model explains around 75% of the variance in apartment prices (R-squared = 0.75).
+- **Model Performance:** The OLS model explains around 72% of the variance in apartment prices (R-squared = 0.72).
 
 ## Future Enhancements  
 - **Expand Data:** Including more data from other months could make the model more robust and capture trends over time.  
