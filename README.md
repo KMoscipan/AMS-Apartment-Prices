@@ -18,4 +18,4 @@ The goal of this project is to identify the main factors that drive apartment pr
 - **Improve the Model:** Trying regularization techniques (like Ridge or Lasso regression) and experimenting with other models (e.g., Random Forests) could improve predictions.
 
 ## Conclusion  
-This analysis provides a clear picture of the factors that influence apartment prices in Amsterdam. It shows how data-driven methods can offer valuable insights into the real estate market. For a deeper dive into the analysis, check out the Jupyter notebook.
+This analysis provides a clear picture of the factors that influence apartment prices in Amsterdam. It shows how data-driven methods can offer valuable insights into the real estate market. For a deeper dive into the analysis, check out the [Jupyter notebook](https://github.com/KMoscipan/AMS-Apartment-Prices/blob/main/Amsterdam_Apartment_Prices.ipynb).
